@@ -2,7 +2,7 @@
 Challenge 2 - VBA
 There are a series of documents in this to compelte the Requirements. 6 Total. 
 
-Document 1 - Challenge Two UofM Boot Camp Otto.vbs (Please note) for ease of grading we have added an RTF file identical for the Grader named.  Document 1.1.txt
+Document 1 - Challenge Two UofM Boot Camp Otto.vbs (Please note) for ease of grading we have added an RTF file identical for the Grader named: Challenge Two UofM Boot Camp Otto.rtf
 Description: This document contains two sub routines.
   First Sub Routine CallMultiSheets is used to call the sub routine Sub StockCounter for all three worksheets in the attached workbook
   Sheets 2018,2019,2020
